@@ -40,9 +40,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruben-the-dev&show_icons=true&theme=dark&hide_border=true" alt="Ruben's GitHub stats" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruben-the-dev&theme=dark&hide_border=true" alt="Ruben's GitHub streak" width="400" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Ruben-the-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="400" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruben-the-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400" />
 </p>

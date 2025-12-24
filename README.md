@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Moi c'est Ruben | Ingénieur Backend & DevOps
 
-<!--
-**Ruben-the-dev/Ruben-the-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/Fintech-Expert-blue?style=for-the-badge" alt="Fintech">
+  <img src="https://img.shields.io/badge/Code-Transactionnel-green?style=for-the-badge" alt="Transactional Code">
+  <img src="https://img.shields.io/badge/Haute-Disponibilité-orange?style=for-the-badge" alt="High Availability">
+</p>
 
-Here are some ideas to get you started:
+> **"Votre futur, notre code" 🚀** > Je bâtis des architectures robustes et des infrastructures Cloud automatisées. Spécialisé dans la haute disponibilité, je transforme des besoins complexes en solutions scalables et sécurisées.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏗️ Expertise TECHNIQUE
+
+#### 💻 Backend & Architecture
+- **Langages** : Python (FastAPI), Java (Spring Boot), PHP (Laravel)
+- **Focus** : Systèmes transactionnels sécurisés, API RESTful haute performance.
+
+#### ☁️ Cloud & DevOps
+- **Cloud** : AWS Cloud (EC2, S3, RDS)
+- **Conteneurisation** : Docker & Kubernetes
+- **CI/CD** : GitHub Actions, GitOps
+
+#### 🛠️ Ops & Monitoring
+- **OS** : Linux (Administration serveur)
+- **Monitoring** : Prometheus & Grafana
+
+---
+
+### 📂 Projets Phares
+- **[Kin-Money](https://github.com/Ruben-the-dev/kin-money)** : Simulation bancaire Full-Stack (FastAPI / SQLAlchemy).
+
+---
+
+### 📫 Me contacter
+- 💼 **LinkedIn** : [Ton lien LinkedIn]
+- 📧 **Email** : rubenthedevs@gmail.com
+- 🌍 **Portfolio** : [https://ruben-the-dev.github.io/Portfolio/](https://ruben-the-dev.github.io/Portfolio/)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ruben-the-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</p>

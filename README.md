@@ -32,15 +32,20 @@
 
 ---
 
-### 📫 Me contacter
-- 💼 **LinkedIn** : [https://www.linkedin.com/in/ruben-mwanza-kankese](https://www.linkedin.com/in/ruben-mwanza-kankese)
-- 📧 **Email** : rubenthedevs@gmail.com
-- 🌍 **Portfolio** : [https://ruben-the-dev.github.io/Portfolio/](https://ruben-the-dev.github.io/Portfolio/)
+### 📊 Statistiques & Expertise
+<p align="left">
+  <img src="https://img.shields.io/badge/Expertise-Backend_%26_DevOps-blue?style=for-the-badge&logo=python" alt="Expertise">
+  <img src="https://img.shields.io/badge/Fintech-Expert-green?style=for-the-badge&logo=moneygram" alt="Fintech">
+  <img src="https://img.shields.io/badge/Infrastructure-AWS_Cloud-orange?style=for-the-badge&logo=amazonaws" alt="AWS">
+</p>
 
 ---
 
+### 📫 Me contacter
+* 💼 **LinkedIn** : [https://www.linkedin.com/in/ruben-mwanza-kankese](https://www.linkedin.com/in/ruben-mwanza-kankese)
+* 📧 **Email** : rubenthedevs@gmail.com
+* 🌍 **Portfolio** : [https://ruben-the-dev.github.io/Portfolio/](https://ruben-the-dev.github.io/Portfolio/)
+
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Ruben-the-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="400" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruben-the-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400" />
+  <img src="https://komarev.com/ghpvc/?username=Ruben-the-dev&color=blue&style=flat-square&label=VUES+PROFIL" alt="Profile Views" />
 </p>

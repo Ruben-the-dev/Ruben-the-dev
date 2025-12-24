@@ -33,7 +33,7 @@
 ---
 
 ### 📫 Me contacter
-- 💼 **LinkedIn** : [Ton lien LinkedIn]
+- 💼 **LinkedIn** : https://www.linkedin.com/in/ruben-mwanza-kankese
 - 📧 **Email** : rubenthedevs@gmail.com
 - 🌍 **Portfolio** : [https://ruben-the-dev.github.io/Portfolio/](https://ruben-the-dev.github.io/Portfolio/)
 

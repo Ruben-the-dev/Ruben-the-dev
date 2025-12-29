@@ -1,52 +1,48 @@
 # 👋 Moi c'est Ruben | Ingénieur Backend & DevOps
 
-<p align="left">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,aws,docker,linux,githubactions,mysql,postman&theme=dark" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Disponible-Freelance-brightgreen?style=for-the-badge&logo=upwork" alt="Freelance Status">
   <img src="https://img.shields.io/badge/Fintech-Expert-blue?style=for-the-badge" alt="Fintech">
-  <img src="https://img.shields.io/badge/Code-Transactionnel-green?style=for-the-badge" alt="Transactional Code">
 </p>
-
-> **Architecte de solutions numériques robustes et sécurisées.** 🚀  
-> Je transforme des besoins complexes en architectures backend haute performance et en infrastructures Cloud automatisées, prêtes pour la production.
 
 ---
 
-### 🏗️ Expertise TECHNIQUE & Services Freelance
+### 🚀 Ce que je fais concrètement
+Passionné par la tech et les systèmes qui tiennent la route, je passe mes journées à concevoir des architectures backend rapides et à automatiser des infrastructures Cloud. Mon but est simple : construire des outils qui fonctionnent, qui sont sécurisés et qui peuvent monter en charge sans casser.
 
-Je vous accompagne dans la réalisation de vos projets critiques avec une maîtrise totale de la stack moderne :
+**Je travaille actuellement en freelance.** Si vous avez une idée à coder ou une infrastructure à stabiliser, discutons-en !
 
-#### 💻 Backend & Architecture (Freelance)
-- **Technologies** : Python (**FastAPI**), Java (Spring Boot), PHP (Laravel).
-- **Spécialité** : Conception d'API RESTful ultra-rapides et systèmes transactionnels sécurisés (Fintech & E-commerce).
+---
+
+### 🏗️ Mon Terrain de Jeu
+
+#### 💻 Backend (Freelance)
+* **Mes outils** : Principalement Python (**FastAPI**), mais aussi du Java (Spring Boot) et du PHP (Laravel).
+* **Ce que j'aime faire** : Créer des APIs propres et gérer des systèmes où la sécurité des transactions est prioritaire (comme dans la Fintech).
 
 #### ☁️ Cloud & DevOps
-- **Infrastructure** : Déploiement sur AWS (EC2, S3, RDS) et Render.
-- **Automatisation** : Conteneurisation avec Docker et pipelines CI/CD via GitHub Actions.
+* **Déploiement** : Habitué à AWS et Render pour mettre les projets en ligne.
+* **Automatisation** : Docker pour tout isoler et GitHub Actions pour que tout se déploie tout seul sans erreur.
 
-#### 🛠️ Ops & Monitoring
-- **Systèmes** : Administration serveurs Linux.
-- **Fiabilité** : Mise en place de monitoring avec Prometheus & Grafana.
-
----
-
-### 📂 Projet Vedette : Kin-Money
-🚀 **[Kin-Money](https://github.com/Ruben-the-dev/kin-money)** : Simulation bancaire Full-Stack démontrant une gestion rigoureuse des données financières et une interface immersive.
+#### 🛠️ Maintenance & Monitoring
+* **Serveurs** : Administration Linux au quotidien.
+* **Suivi** : Monitoring avec Prometheus & Grafana pour garder un œil sur la santé du code en prod.
 
 ---
 
-### 📊 Pourquoi me choisir ?
-<p align="left">
-  <img src="https://img.shields.io/badge/Expertise-Backend_%26_DevOps-blue?style=for-the-badge&logo=python" alt="Expertise">
-  <img src="https://img.shields.io/badge/Service-Freelance_Sur_Mesure-green?style=for-the-badge&logo=fastapi" alt="Freelance">
-  <img src="https://img.shields.io/badge/Infrastructure-AWS_Cloud-orange?style=for-the-badge&logo=amazonaws" alt="AWS">
-</p>
+### 📂 Un aperçu de mon travail
+🚀 **[Kin-Money](https://github.com/Ruben-the-dev/kin-money)** : C'est mon dernier gros projet. Une simulation bancaire complète qui montre comment je gère la logique financière complexe avec FastAPI.
 
 ---
 
-### 📫 Discutons de votre projet
+### 📫 On reste en contact ?
 * 💼 **LinkedIn** : [Ruben Mwanza Kankese](https://www.linkedin.com/in/ruben-mwanza-kankese)
 * 📧 **Email** : [rubenthedevs@gmail.com](mailto:rubenthedevs@gmail.com)
-* 🌍 **Portfolio** : [Explorer mes réalisations](https://ruben-the-dev.github.io/Portfolio/)
+* 🌍 **Mon Portfolio** : [Voir mes autres projets](https://ruben-the-dev.github.io/Portfolio/)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ruben-the-dev&color=blue&style=flat-square&label=VUES+PROFIL" alt="Profile Views" />

@@ -1,39 +1,53 @@
-👋 Moi c'est Ruben | Ingénieur Backend & DevOps
-<p align="left"> <img src="https://img.shields.io/badge/Disponible-Freelance-brightgreen?style=for-the-badge&logo=upwork" alt="Freelance Status"> <img src="https://img.shields.io/badge/Fintech-Expert-blue?style=for-the-badge" alt="Fintech"> <img src="https://img.shields.io/badge/Code-Transactionnel-green?style=for-the-badge" alt="Transactional Code"> </p>
+# 👋 Moi c'est Ruben | Ingénieur Backend & DevOps
 
-Architecte de solutions numériques robustes et sécurisées. 🚀
+<p align="left">
+  <img src="https://img.shields.io/badge/Disponible-Freelance-brightgreen?style=for-the-badge&logo=upwork" alt="Freelance Status">
+  <img src="https://img.shields.io/badge/Fintech-Expert-blue?style=for-the-badge" alt="Fintech">
+  <img src="https://img.shields.io/badge/Code-Transactionnel-green?style=for-the-badge" alt="Transactional Code">
+</p>
 
-Je conçois des systèmes backend haute performance et des infrastructures Cloud automatisées pour transformer vos idées en produits scalables.
+> **Architecte de solutions numériques robustes et sécurisées.** 🚀  
+> Je transforme des besoins complexes en architectures backend haute performance et en infrastructures Cloud automatisées, prêtes pour la production.
 
-🏗️ Expertise TECHNIQUE & Freelance
-Je vous accompagne dans la réalisation de vos projets complexes avec une maîtrise totale de la stack moderne :
+---
 
-💻 Backend & Architecture
-Technologies clés : Python (FastAPI), Java (Spring Boot), PHP (Laravel).
+### 🏗️ Expertise TECHNIQUE & Services Freelance
 
-Spécialité : Développement de systèmes transactionnels sécurisés et API RESTful optimisées.
+Je vous accompagne dans la réalisation de vos projets critiques avec une maîtrise totale de la stack moderne :
 
-☁️ Cloud & DevOps
-Cloud Infrastructure : Expert AWS (EC2, S3, RDS).
+#### 💻 Backend & Architecture (Freelance)
+- **Technologies** : Python (**FastAPI**), Java (Spring Boot), PHP (Laravel).
+- **Spécialité** : Conception d'API RESTful ultra-rapides et systèmes transactionnels sécurisés (Fintech & E-commerce).
 
-Automatisation : Docker, Kubernetes et pipelines CI/CD (GitHub Actions).
+#### ☁️ Cloud & DevOps
+- **Infrastructure** : Déploiement sur AWS (EC2, S3, RDS) et Render.
+- **Automatisation** : Conteneurisation avec Docker et pipelines CI/CD via GitHub Actions.
 
-🛠️ Ops & Monitoring
-Systèmes : Administration serveurs Linux avancée.
+#### 🛠️ Ops & Monitoring
+- **Systèmes** : Administration serveurs Linux.
+- **Fiabilité** : Mise en place de monitoring avec Prometheus & Grafana.
 
-Suivi : Monitoring temps réel avec Prometheus & Grafana.
+---
 
-📂 Projet Vedette
-🚀 Kin-Money : Une simulation bancaire Full-Stack de pointe, illustrant la puissance de FastAPI associée à une architecture transactionnelle rigoureuse.
+### 📂 Projet Vedette : Kin-Money
+🚀 **[Kin-Money](https://github.com/Ruben-the-dev/kin-money)** : Simulation bancaire Full-Stack démontrant une gestion rigoureuse des données financières et une interface immersive.
 
-📊 Pourquoi collaborer avec moi ?
-<p align="left"> <img src="https://img.shields.io/badge/Expertise-Backend_%26_DevOps-blue?style=for-the-badge&logo=python" alt="Expertise"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Service-Freelance_Sur_Mesure-green%3Fstyle%3Dfor-the-badge%26logo%3Dfastapi" alt="Freelance"> <img src="https://img.shields.io/badge/Infrastructure-AWS_Cloud-orange?style=for-the-badge&logo=amazonaws" alt="AWS"> </p>
+---
 
-📫 Discutons de votre projet
-💼 LinkedIn : Ruben Mwanza Kankese
+### 📊 Pourquoi me choisir ?
+<p align="left">
+  <img src="https://img.shields.io/badge/Expertise-Backend_%26_DevOps-blue?style=for-the-badge&logo=python" alt="Expertise">
+  <img src="https://img.shields.io/badge/Service-Freelance_Sur_Mesure-green?style=for-the-badge&logo=fastapi" alt="Freelance">
+  <img src="https://img.shields.io/badge/Infrastructure-AWS_Cloud-orange?style=for-the-badge&logo=amazonaws" alt="AWS">
+</p>
 
-📧 Email Direct : rubenthedevs@gmail.com
+---
 
-🌍 Portfolio : Explorer mes réalisations
+### 📫 Discutons de votre projet
+* 💼 **LinkedIn** : [Ruben Mwanza Kankese](https://www.linkedin.com/in/ruben-mwanza-kankese)
+* 📧 **Email** : [rubenthedevs@gmail.com](mailto:rubenthedevs@gmail.com)
+* 🌍 **Portfolio** : [Explorer mes réalisations](https://ruben-the-dev.github.io/Portfolio/)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ruben-the-dev&color=blue&style=flat-square&label=VUES+PROFIL" alt="Profile Views" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ruben-the-dev&color=blue&style=flat-square&label=VUES+PROFIL" alt="Profile Views" />
+</p>

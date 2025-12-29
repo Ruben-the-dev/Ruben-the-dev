@@ -1,51 +1,39 @@
-# 👋 Moi c'est Ruben | Ingénieur Backend & DevOps
+👋 Moi c'est Ruben | Ingénieur Backend & DevOps
+<p align="left"> <img src="https://img.shields.io/badge/Disponible-Freelance-brightgreen?style=for-the-badge&logo=upwork" alt="Freelance Status"> <img src="https://img.shields.io/badge/Fintech-Expert-blue?style=for-the-badge" alt="Fintech"> <img src="https://img.shields.io/badge/Code-Transactionnel-green?style=for-the-badge" alt="Transactional Code"> </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Fintech-Expert-blue?style=for-the-badge" alt="Fintech">
-  <img src="https://img.shields.io/badge/Code-Transactionnel-green?style=for-the-badge" alt="Transactional Code">
-  <img src="https://img.shields.io/badge/Haute-Disponibilité-orange?style=for-the-badge" alt="High Availability">
-</p>
+Architecte de solutions numériques robustes et sécurisées. 🚀
 
-> **"Votre futur, notre code" 🚀** > Je bâtis des architectures robustes et des infrastructures Cloud automatisées. Spécialisé dans la haute disponibilité, je transforme des besoins complexes en solutions scalables et sécurisées.
+Je conçois des systèmes backend haute performance et des infrastructures Cloud automatisées pour transformer vos idées en produits scalables.
 
----
+🏗️ Expertise TECHNIQUE & Freelance
+Je vous accompagne dans la réalisation de vos projets complexes avec une maîtrise totale de la stack moderne :
 
-### 🏗️ Expertise TECHNIQUE
+💻 Backend & Architecture
+Technologies clés : Python (FastAPI), Java (Spring Boot), PHP (Laravel).
 
-#### 💻 Backend & Architecture
-- **Langages** : Python (FastAPI), Java (Spring Boot), PHP (Laravel)
-- **Focus** : Systèmes transactionnels sécurisés, API RESTful haute performance.
+Spécialité : Développement de systèmes transactionnels sécurisés et API RESTful optimisées.
 
-#### ☁️ Cloud & DevOps
-- **Cloud** : AWS Cloud (EC2, S3, RDS)
-- **Conteneurisation** : Docker & Kubernetes
-- **CI/CD** : GitHub Actions, GitOps
+☁️ Cloud & DevOps
+Cloud Infrastructure : Expert AWS (EC2, S3, RDS).
 
-#### 🛠️ Ops & Monitoring
-- **OS** : Linux (Administration serveur)
-- **Monitoring** : Prometheus & Grafana
+Automatisation : Docker, Kubernetes et pipelines CI/CD (GitHub Actions).
 
----
+🛠️ Ops & Monitoring
+Systèmes : Administration serveurs Linux avancée.
 
-### 📂 Projets Phares
-- **[Kin-Money](https://github.com/Ruben-the-dev/kin-money)** : Simulation bancaire Full-Stack (FastAPI / SQLAlchemy).
+Suivi : Monitoring temps réel avec Prometheus & Grafana.
 
----
+📂 Projet Vedette
+🚀 Kin-Money : Une simulation bancaire Full-Stack de pointe, illustrant la puissance de FastAPI associée à une architecture transactionnelle rigoureuse.
 
-### 📊 Statistiques & Expertise
-<p align="left">
-  <img src="https://img.shields.io/badge/Expertise-Backend_%26_DevOps-blue?style=for-the-badge&logo=python" alt="Expertise">
-  <img src="https://img.shields.io/badge/Fintech-Expert-green?style=for-the-badge&logo=moneygram" alt="Fintech">
-  <img src="https://img.shields.io/badge/Infrastructure-AWS_Cloud-orange?style=for-the-badge&logo=amazonaws" alt="AWS">
-</p>
+📊 Pourquoi collaborer avec moi ?
+<p align="left"> <img src="https://img.shields.io/badge/Expertise-Backend_%26_DevOps-blue?style=for-the-badge&logo=python" alt="Expertise"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Service-Freelance_Sur_Mesure-green%3Fstyle%3Dfor-the-badge%26logo%3Dfastapi" alt="Freelance"> <img src="https://img.shields.io/badge/Infrastructure-AWS_Cloud-orange?style=for-the-badge&logo=amazonaws" alt="AWS"> </p>
 
----
+📫 Discutons de votre projet
+💼 LinkedIn : Ruben Mwanza Kankese
 
-### 📫 Me contacter
-* 💼 **LinkedIn** : [https://www.linkedin.com/in/ruben-mwanza-kankese](https://www.linkedin.com/in/ruben-mwanza-kankese)
-* 📧 **Email** : rubenthedevs@gmail.com
-* 🌍 **Portfolio** : [https://ruben-the-dev.github.io/Portfolio/](https://ruben-the-dev.github.io/Portfolio/)
+📧 Email Direct : rubenthedevs@gmail.com
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ruben-the-dev&color=blue&style=flat-square&label=VUES+PROFIL" alt="Profile Views" />
-</p>
+🌍 Portfolio : Explorer mes réalisations
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ruben-the-dev&color=blue&style=flat-square&label=VUES+PROFIL" alt="Profile Views" /> </p>

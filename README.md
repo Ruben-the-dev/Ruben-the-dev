@@ -12,30 +12,27 @@
 ---
 
 ### 🚀 Ce que je fais concrètement
-Passionné par la tech et les systèmes qui tiennent la route, je passe mes journées à concevoir des architectures backend rapides et à automatiser des infrastructures Cloud. Mon but est simple : construire des outils qui fonctionnent, qui sont sécurisés et qui peuvent monter en charge sans casser.
+Passionné par la tech, je me spécialise dans la création d'architectures backend rapides et l'automatisation d'infrastructures Cloud. Mon objectif est de bâtir des systèmes stables, sécurisés et capables d'absorber la montée en charge.
 
-**Je travaille actuellement en freelance.** Si vous avez une idée à coder ou une infrastructure à stabiliser, discutons-en !
+**Je travaille actuellement en freelance.** Si vous avez un projet à lancer ou une infrastructure à optimiser, je suis disponible pour vous aider à concrétiser vos idées.
 
 ---
 
-### 🏗️ Mon Terrain de Jeu
+### 🏗️ Compétences & Stack
 
-#### 💻 Backend (Freelance)
-* **Mes outils** : Principalement Python (**FastAPI**), mais aussi du Java (Spring Boot) et du PHP (Laravel).
-* **Ce que j'aime faire** : Créer des APIs propres et gérer des systèmes où la sécurité des transactions est prioritaire (comme dans la Fintech).
+#### 💻 Développement Backend
+* **Langages** : Python (**FastAPI**), Java (Spring Boot) et PHP (Laravel).
+* **Focus** : Création d'APIs performantes et gestion de systèmes transactionnels (Fintech, E-commerce).
 
-#### ☁️ Cloud & DevOps
-* **Déploiement** : Habitué à AWS et Render pour mettre les projets en ligne.
-* **Automatisation** : Docker pour tout isoler et GitHub Actions pour que tout se déploie tout seul sans erreur.
-
-#### 🛠️ Maintenance & Monitoring
-* **Serveurs** : Administration Linux au quotidien.
-* **Suivi** : Monitoring avec Prometheus & Grafana pour garder un œil sur la santé du code en prod.
+#### ☁️ DevOps & Cloud
+* **Infrastructure** : Déploiement et gestion sur AWS et Render.
+* **Outils** : Docker pour la conteneurisation et GitHub Actions pour l'automatisation (CI/CD).
+* **Système** : Bonne maîtrise de l'administration Linux pour la configuration et la gestion des serveurs.
 
 ---
 
 ### 📂 Un aperçu de mon travail
-🚀 **[Kin-Money](https://github.com/Ruben-the-dev/kin-money)** : C'est mon dernier gros projet. Une simulation bancaire complète qui montre comment je gère la logique financière complexe avec FastAPI.
+🚀 **[Kin-Money](https://github.com/Ruben-the-dev/kin-money)** : Une simulation bancaire complète qui montre comment je gère la logique financière et les flux de données avec FastAPI.
 
 ---
 
